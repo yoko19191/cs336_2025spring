@@ -13,9 +13,6 @@ https://bcntktrahew8.feishu.cn/wiki/AaSGwnJh2ivvTJksDxMcbAJZntf?from=from_copyli
 ```bash
 # install uv if you don't have (for linux & mac)
 curl -LsSf https://astral.sh/uv/install.sh | sh 
-
-git clone 
-
-
-
+git clone git@github.com:yoko19191/cs336_2025spring.git
+uv sync
 ```
